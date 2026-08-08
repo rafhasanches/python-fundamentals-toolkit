@@ -4,73 +4,21 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6eed1716-5047-436a-9dbb-a817b756112e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/python-fundamentals-toolkit.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AnalyzingText.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArithmeticMean.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AverageGrade.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BMICalculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BankLoan.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BeforeAfter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BiggerNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CarRental.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConvertBaseNumbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConvertNumbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CosineTangent.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CountandPosition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CurrencyConverter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DateCalculation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DiscountPrice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DiscoverNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DoubleTripleSqrRoot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EvenOdd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FIFARanking.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FindName.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FirstLastName.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GenerateXMLDocument.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeapYear.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MeasureConverter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MilitaryDraft.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MutliplicationTable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NewSalary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenXMLDocument.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PaintingWall.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PossibleTriangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Printformat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RandomOrder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RandomStudent.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RockPaperScissor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoundNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SalaryRaise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeparatingDigits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpeedTicket.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SwimmingCategories.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TemperatureConverter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Triangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TripCost.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VerifyFirstName.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WorldCupSweepstake.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WorldCupSweepstake_XML.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpfVerify.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpfVerify2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpfVerify3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exemploArray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helloWorld.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mp3Player.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mp3module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/supermarketInventory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/supermarketInventoryBidim.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/supermarketInventoryListing.py" afterDir="false" />
+    <list default="true" id="6eed1716-5047-436a-9dbb-a817b756112e" name="Changes" comment="new upload">
+      <change afterPath="$PROJECT_DIR$/weatherSeverity.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -139,10 +87,24 @@
       <updated>1786160930250</updated>
       <workItem from="1786160931315" duration="1404000" />
       <workItem from="1786162357406" duration="513000" />
+      <workItem from="1786162886642" duration="1105000" />
     </task>
+    <task id="LOCAL-00001" summary="new upload">
+      <option name="closed" value="true" />
+      <created>1786162952386</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1786162952386</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new upload" />
+    <option name="LAST_COMMIT_MESSAGE" value="new upload" />
   </component>
 </project>
