@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6eed1716-5047-436a-9dbb-a817b756112e" name="Changes" comment="new project upload">
-      <change afterPath="$PROJECT_DIR$/ArithmeticProgression.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EvenNumbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FireworkCountdown.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OddNumberSum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Palindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PrimeNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SumEvenNumbersInput.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6eed1716-5047-436a-9dbb-a817b756112e" name="Changes" comment="new project upload" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,7 +88,7 @@
       <workItem from="1786160931315" duration="1404000" />
       <workItem from="1786162357406" duration="513000" />
       <workItem from="1786162886642" duration="1736000" />
-      <workItem from="1786415564594" duration="3075000" />
+      <workItem from="1786415564594" duration="3398000" />
     </task>
     <task id="LOCAL-00001" summary="new upload">
       <option name="closed" value="true" />
@@ -123,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1786164708563</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="new project upload">
+      <option name="closed" value="true" />
+      <created>1786418738225</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1786418738225</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
