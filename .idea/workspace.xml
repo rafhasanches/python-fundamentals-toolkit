@@ -4,9 +4,16 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6eed1716-5047-436a-9dbb-a817b756112e" name="Changes" comment="new project upload">
-      <change afterPath="$PROJECT_DIR$/ComparingWeight.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Over21YO.py" afterDir="false" />
+    <list default="true" id="6eed1716-5047-436a-9dbb-a817b756112e" name="Changes" comment="new exercises">
+      <change afterPath="$PROJECT_DIR$/ArithmeticProgressionWhile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArithmeticProgressionWhile2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalculatorMenu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataAnalyze.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataValidation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactorialNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FibonacciSequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GuessGame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreatingMultipleValues.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,31 +52,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.OddNumberSum.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SumEvenNumbersInput.executor&quot;: &quot;Run&quot;,
-    &quot;Python.weatherSeverity.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/rafha/PycharmProjects/python-fundamentals-toolkit&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.ArithmeticProgressionWhile2.executor": "Run",
+    "Python.DataAnalyze.executor": "Run",
+    "Python.OddNumberSum.executor": "Run",
+    "Python.SumEvenNumbersInput.executor": "Run",
+    "Python.weatherSeverity.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/rafha/PycharmProjects/python-fundamentals-toolkit",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\rafha\PycharmProjects\python-fundamentals-toolkit" />
@@ -93,7 +102,9 @@
       <workItem from="1786162357406" duration="513000" />
       <workItem from="1786162886642" duration="1736000" />
       <workItem from="1786415564594" duration="3398000" />
-      <workItem from="1786494018965" duration="1801000" />
+      <workItem from="1786494018965" duration="2166000" />
+      <workItem from="1786581755656" duration="3546000" />
+      <workItem from="1786667280127" duration="5791000" />
     </task>
     <task id="LOCAL-00001" summary="new upload">
       <option name="closed" value="true" />
@@ -127,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1786418738225</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="new exercises">
+      <option name="closed" value="true" />
+      <created>1786497390237</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1786497390238</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,11 +155,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new upload" />
     <MESSAGE value="new project upload" />
-    <option name="LAST_COMMIT_MESSAGE" value="new project upload" />
+    <MESSAGE value="new exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="new exercises" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_fundamentals_toolkit$SumEvenNumbersInput.coverage" NAME="SumEvenNumbersInput Coverage Results" MODIFIED="1786416964753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_fundamentals_toolkit$weatherSeverity.coverage" NAME="weatherSeverity Coverage Results" MODIFIED="1786164500177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_fundamentals_toolkit$ArithmeticProgressionWhile2.coverage" NAME="ArithmeticProgressionWhile2 Coverage Results" MODIFIED="1786671244594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_fundamentals_toolkit$OddNumberSum.coverage" NAME="OddNumberSum Coverage Results" MODIFIED="1786416400606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_fundamentals_toolkit$DataAnalyze.coverage" NAME="DataAnalyze Coverage Results" MODIFIED="1786673949949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
