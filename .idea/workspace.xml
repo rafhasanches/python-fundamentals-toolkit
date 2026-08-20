@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6eed1716-5047-436a-9dbb-a817b756112e" name="Changes" comment="new exercises">
-      <change afterPath="$PROJECT_DIR$/ArithmeticProgressionWhile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArithmeticProgressionWhile2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CalculatorMenu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataAnalyze.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataValidation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FactorialNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FibonacciSequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GuessGame.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TreatingMultipleValues.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FlagNumberSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MultiplicationTable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OddsandEvens.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PurchaseProgram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RegisterPeople.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,7 +100,7 @@
       <workItem from="1786415564594" duration="3398000" />
       <workItem from="1786494018965" duration="2166000" />
       <workItem from="1786581755656" duration="3546000" />
-      <workItem from="1786667280127" duration="5791000" />
+      <workItem from="1786667280127" duration="9635000" />
     </task>
     <task id="LOCAL-00001" summary="new upload">
       <option name="closed" value="true" />
@@ -146,7 +142,15 @@
       <option name="project" value="LOCAL" />
       <updated>1786497390238</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="new exercises">
+      <option name="closed" value="true" />
+      <created>1787100981493</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1787100981493</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
